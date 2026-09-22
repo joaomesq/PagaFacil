@@ -84,7 +84,7 @@
    font-weight: 800;
    font-size: 18px;
    letter-spacing: -.01em;
-    width: 42px;
+   width: 42px;
    height: 42px;
  }
 
@@ -398,6 +398,7 @@
  .float-chip {
    position: absolute;
    background: #fff;
+   color: #000;
    border-radius: 16px;
    padding: 9px 14px 9px 9px;
    box-shadow: 0 14px 30px -14px rgba(13, 59, 38, .35);
@@ -411,8 +412,8 @@
  }
 
  .float-chip .ic {
-   width: 30px;
-   height: 30px;
+   width: 48px;
+   height: 48px;
    border-radius: 9px;
    display: flex;
    align-items: center;
@@ -1105,4 +1106,9 @@
    --gray-400: #6c7d74;
    --green-50: #0f1e17;
    --green-100: #123322;
-Aparelhai-vos, pois, para serdes possuída por inteiro.Aparelhai-vos, pois, para serdes possuída por inteiro. }
+   Aparelhai-vos,
+   pois,
+   para serdes possuída por inteiro.Aparelhai-vos,
+   pois,
+   para serdes possuída por inteiro.
+ }
