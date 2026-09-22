@@ -142,7 +142,7 @@
 
  .btn-outline {
    background: #fff;
-   color: var(--ink);
+   color: #000;
    border-color: var(--line);
  }
 
