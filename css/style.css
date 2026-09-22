@@ -527,12 +527,26 @@
  }
 
  .band-alt {
-   background: var(--green-50);
+   background: var(--green-50)
+   align-items: center;
+   gap: 8px;
+   font-size: 13px;
+   font-weight: 700;
+   color: var(--green-700);
+   background: var(--green-100);
+   padding: 7px 14px;;
  }
 
  /* ---------- Problem cards ---------- */
  .grid-3 {
    display: grid;
+   align-items: center;
+   gap: 8px;
+   font-size: 13px;
+   font-weight: 700;
+   color: var(--green-700);
+   background: var(--green-100);
+   padding: 7px 14px;
    grid-template-columns: repeat(3, 1fr);
    gap: 22px;
  }
@@ -716,6 +730,13 @@
 
  .step p {
    font-size: 13.5px;
+   align-items: center;
+   gap: 8px;
+   font-size: 13px;
+   font-weight: 700;
+   color: var(--green-700);
+   background: var(--green-100);
+   padding: 7px 14px;
    color: var(--gray-600);
    margin: 0;
    line-height: 1.5;
